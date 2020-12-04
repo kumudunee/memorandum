@@ -17,6 +17,12 @@ List view ,
 Notepad ,
 Text saving app
 
+## Product details
+Original Release Date : 2020
+Date First Available : December 4, 2020
+Manufacturer : Anoja
+ASIN : B08PNDB8PP
+
 https://www.amazon.com/gp/product/B08PNDB8PP
 
 ![1](https://user-images.githubusercontent.com/49120359/101174282-af925180-3669-11eb-80cc-665bf8ea69ed.jpeg)
