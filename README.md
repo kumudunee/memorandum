@@ -18,9 +18,9 @@ Notepad ,
 Text saving app
 
 ## Product details
-Original Release Date : 2020
-Date First Available : December 4, 2020
-Manufacturer : Anoja
+Original Release Date : 2020 ,
+Date First Available : December 4, 2020 ,
+Manufacturer : Anoja ,
 ASIN : B08PNDB8PP
 
 https://www.amazon.com/gp/product/B08PNDB8PP
